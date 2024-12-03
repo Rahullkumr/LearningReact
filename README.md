@@ -2,17 +2,13 @@
 
 Learning React from Prasad Kadam sir
 
-## Task: 
-- Create a basic webpage using components
-- There should be 3 sections:
-    - Navbar
-    - Home
-        - left section
-        - main content section
-    - Footer
+## Task: ❌✅
 
-## screenshot
+- Create the given task using multiple components
 
-![task](task_day03.png)
+    ![task](task_day04.jpg)
 
-# [Go to main branch](https://github.com/Rahullkumr/LearningReact)
+
+
+# [Go to `main` branch](https://github.com/Rahullkumr/LearningReact)
+
