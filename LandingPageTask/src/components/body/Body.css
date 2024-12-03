@@ -1,0 +1,40 @@
+section{
+    background-color: smokegray;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    border: 2px solid;
+}
+.left{
+    width: 45%; 
+}
+.center{
+    width: 30%; 
+}
+.rightside{
+    width: 25%; 
+}
+.left div{
+    padding: 50px;
+    border: 1px solid;
+}
+.lefttop{
+    height: 30%;
+}
+.leftbottom{
+    height: 70%;
+}
+.rightside>div{
+    padding: 50px;
+    height: 33.33%;
+    border: 1px solid;
+}
+.righttop{
+    background-color: lightblue;
+}
+.rightcenter{
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

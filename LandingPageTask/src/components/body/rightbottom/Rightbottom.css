@@ -1,0 +1,10 @@
+.rightbottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100%;
+    grid-gap: 5px;
+}
+.rightbottom div{
+    border-radius: 50%;
+    border: 1px solid;
+}

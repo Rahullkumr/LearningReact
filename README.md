@@ -6,7 +6,7 @@ Learning React from Prasad Kadam sir
 
 - Create the given task using multiple components
 
-    ![task](task_day04.jpg)
+    ![task](task_day04.png)
 
 
 
