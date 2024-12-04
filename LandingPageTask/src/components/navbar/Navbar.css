@@ -24,3 +24,7 @@ nav{
 .search>input{
     width: 100%;
 }
+.logo>img{
+    height: 60px;
+    width: 130px;
+}

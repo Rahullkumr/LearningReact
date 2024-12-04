@@ -1,11 +1,11 @@
+import logo from './logo.png'
 import './Navbar.css'
 let Navbar = ()=>{
     return (
         <>
             <nav>
                 <div className='logo'>
-                    logo
-                    {/* <img src="logo.png" alt="" /> */}
+                    <img src={logo} alt="" />
                 </div>
                 <div className='menu'>
                     <div>
