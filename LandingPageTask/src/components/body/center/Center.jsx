@@ -1,9 +1,10 @@
 import shutuplady from "../center/shutuplady.png"
+import './Center.css'
 
 let Center = ()=>{
     return (
         <>
-            <img src={shutuplady} alt="image of a girl" />
+            <img id='lady' src={shutuplady} alt="image of a girl"/>
         </>
     );
 }

@@ -1,13 +1,10 @@
-import Body from "./components/body/Body"
-import Navbar from "./components/Navbar/Navbar"
+import Bluebg from "./components/Bluebg";
 
 function App() {
-
   return (
-    <>
-      <Navbar/>
-      <Body/>
-    </>
+    <div id='blackme'>
+      <Bluebg/>
+    </div>
   )
 }
 

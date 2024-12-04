@@ -1,4 +1,5 @@
 import logo from './logo.png'
+import search from './search.png'
 import './Navbar.css'
 let Navbar = ()=>{
     return (
@@ -22,7 +23,7 @@ let Navbar = ()=>{
                     </div>
                 </div>
                 <div className='search'>
-                    <img src="search.png" alt="" />
+                    <img src={search} alt="" />
                     <input type="text" />
                 </div>
             </nav>
