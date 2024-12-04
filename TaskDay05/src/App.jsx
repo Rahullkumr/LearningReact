@@ -1,4 +1,5 @@
-import Bluebg from "./components/Bluebg";
+import './App.css'
+import Bluebg from './components/Bluebg'
 
 function App() {
   return (

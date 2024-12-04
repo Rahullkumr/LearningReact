@@ -2,11 +2,11 @@
 
 Learning React from Prasad Kadam sir
 
-## Task: ✅
+## Task: ✅❌
 
 - Create the given task using multiple components
 
-    ![task](task_day04.png)
+    ![task](task_day05.png)
 
 
 

@@ -1,7 +1,7 @@
 let Subheading = ()=>{
     return (
         <div id='subheading'>
-            <h3>Webinar</h3>
+            <h4>Webinar</h4>
         </div>
     );
 }
