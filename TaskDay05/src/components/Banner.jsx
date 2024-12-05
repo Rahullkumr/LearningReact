@@ -1,10 +1,21 @@
+import Bannertop from "./Bannertop.jsx";
+import Bannermid1 from "./Bannermid1.jsx";
+import Bannermid2 from "./Bannermid2.jsx";
+import Bannerbottom from "./Bannerbottom.jsx";
+
 function Banner(){
     return (
         <div id='banner'>
-            <div>1</div>
-            <div>2</div>
-            <div>3</div>
-            <div>4</div>
+            <div>
+                <Bannertop/>
+            </div>
+            <div>
+                <Bannermid1/>
+            </div>
+            <div>
+                <Bannermid2/>
+            </div>
+            <Bannerbottom/>
         </div>
     );
 }
