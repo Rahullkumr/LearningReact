@@ -2,7 +2,7 @@
 
 Learning React from Prasad Kadam sir
 
-## Task: ✅❌
+## Task: ✅
 
 - Create the given task using multiple components
 
